@@ -1,6 +1,6 @@
 ---
 title: We Are Biomers Manifesto
-description: déclaration commune sur le Biomimétisme et nons activités
+description: déclaration commune sur le Biomimétisme et nos activités
 image_url: https://framapic.org/2oZGU2o5yu7r/4fj1x5mKXvUf.jpg
 ---
 
