@@ -25,7 +25,7 @@ A l'aube du troisième millénaire, les sociétés vivent un bouleversement maje
 
 Mais en même temps que les prises de consciences et les initiatives locales grandissent, une force de proposition économiquement viable et applicable, émanant de la société civile, peine à s'affirmer comme innovante et fonctionnelle. 
 
-Dans un écosystème numérisé, globalisé et transversal, qu'advient-il si l'on fait collaborer Stephen Hawking, Luc Schuiten, Françoise Barré-Sinoussi, Luc Montagnier, Rigoberta Menchu, la start-up du coin de la rue, 100 citoyens, une école...? 
+Dans un écosystème numérisé, globalisé et transversal, qu'advient-il si l'on fait collaborer Stephen Hawking, Luc Schuiten, Françoise Barré-Sinoussi, Ada Lovelace, Rigoberta Menchu, la start-up du coin de la rue, 100 citoyens, une école...? 
 
 Ne nous privons pas de ce privilège et de ces possibilités. 
 
